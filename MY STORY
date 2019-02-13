@@ -1,0 +1,521 @@
+<html>
+
+
+
+<head>
+
+    <title>Rhythm 0</title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0,maximum-scale=1.0">
+
+    <style>
+
+        /* Inspired by: http://embedresponsively.com/ */
+
+        
+
+        responsive-block {
+
+            display: block;
+
+            position: relative;
+
+            padding-bottom: 56.25%;
+
+            height: 0;
+
+            overflow: hidden;
+
+            max-width: 100%;
+
+        }
+
+        
+
+        ratio-1-to-1 responsive-block {
+
+            display: block;
+
+            position: relative;
+
+            padding-bottom: 100%;
+
+            height: 0;
+
+            overflow: hidden;
+
+            max-width: 100%;
+
+        }
+
+        
+
+        ratio-4-to-3 responsive-block {
+
+            display: block;
+
+            position: relative;
+
+            padding-bottom: 75%;
+
+            height: 0;
+
+            overflow: hidden;
+
+            max-width: 100%;
+
+        }
+
+        
+
+        responsive-block iframe,
+
+        responsive-block object,
+
+        responsive-block embed {
+
+            position: absolute;
+
+            top: 0;
+
+            left: 0;
+
+            width: 100%;
+
+            height: 100%;
+
+        }
+
+        
+
+        body {
+
+            max-width: 360px;
+
+            margin-left: auto;
+
+            margin-right: auto;
+
+            color: #333;
+
+        }
+
+        
+
+        img {
+
+            max-width: 100%;
+
+        }
+
+        
+
+        p {
+
+            padding-left: 1rem;
+
+            padding-right: 1rem;
+
+        }
+
+        
+
+        figure {
+
+            width: 100%;
+
+            margin-left: 0;
+
+            margin-right: 0;
+
+        }
+
+        
+
+        figure figcaption {
+
+            display: block;
+
+            padding-left: 2rem;
+
+            padding-right: 2rem;
+
+            font-size: 0.85em;
+
+        }
+
+        
+
+        h2 {
+
+            border-bottom: 1px solid #ccc;
+
+            margin-top: 2em
+
+        }
+
+        
+
+        cover-image {
+
+            display: block;
+
+            position: relative;
+
+        }
+
+        
+
+        cover-image h1 {
+
+            position: absolute;
+
+            top: 0;
+
+            left: 0;
+
+            right: 0;
+
+            color: #eee;
+
+            text-align: center;
+
+        }
+
+        
+
+        cover-image author-block {
+
+            position: absolute;
+
+            bottom: 1em;
+
+            left: 0;
+
+            right: 0;
+
+            color: black;
+
+            text-align: center;
+
+            padding: 10px;
+
+            opacity: 0.6;
+
+            background-color: white;
+
+        }
+
+        
+
+        code {
+
+            margin: 0;
+
+            max-width: 100%;
+
+            word-break: break-all;
+
+            font-family: monospace;
+
+        }
+
+    </style>
+
+</head>
+
+
+
+<body>
+
+    <cover-image>
+
+        <img src="images/Rainbow-Desert-Road-Beautiful-Big-Bend-Wallpaper-3414934.jpg" alt="cover photo">
+
+        <h1>
+
+            Absolute Freedom
+
+        </h1>
+
+        <author-block>
+
+            <em>By</em>
+
+            <br>
+
+            <strong>
+
+                SUN HAN YUE
+
+            </strong>
+
+        </author-block>
+
+    </cover-image>
+
+
+
+    <p>In a six-hour art performance, a great performance artist named Marina Abramović proved to people:If you hand over all the decision-making power to the audience, you're not far from death.</p>
+
+
+
+    <h2> The Initiator </h2>
+
+
+
+    <p>
+
+        Who is Marina Abramović?
+
+    </p>
+
+
+
+    <ul>
+
+        <li>
+
+            Marina Abramović (Born November 30, 1946) is a Serbian performance artist, writer and art film director and producer.
+
+        </li>
+
+        <li>
+        
+            Her work explores body art, endurance art and feminist art, the relationship between performer and audience, the limits of the body, and the possibilities of the mind.
+        
+        </li>
+
+        <li>
+        
+            Being active for over four decades, Abramović refers to herself as the "grandmother of performance art". She pioneered a new notion of identity by bringing in the participation of observers, focusing on "confronting pain, blood, and physical limits of the body".
+
+        </li>
+
+    </ul>
+
+
+
+    <h2> The beginning of Rhythm 0 </h2>
+
+
+
+    <p>
+    
+          Rhythm 0 (1974) was a six-hour work of performance art by Yugoslav artist Marina Abramović in Studio Morra, Naples. The work involved Abramović standing still while the audience was invited to do to her whatever they wished, using one of 72 objects she had placed on a table. These included a rose, feather, perfume, honey, bread, grapes, wine, scissors, a scalpel, nails, a metal bar, and a gun loaded with one bullet. 
+          
+          There were no separate stages. Abramović and the visitors stood in the same space, making it clear that the latter were part of the work. The purpose of the piece, she said, was to find out how far the public would go: "What is the public about and what are they going to do in this kind of situation?"
+    
+    </p>
+
+
+
+    <h2>What would audience do?</h2>
+
+
+
+    <p>
+
+       Marina Abramović anaesthetized her whole body except her head, signed the legal document and was fully responsible for any situation that was about to happen. At first, the audience was a little overwhelmed and curiously talked with each other in a low voice. After a while, they awared that the show had begun......
+
+    </p>
+
+
+
+    <h3>Audience started to touch her</h3>
+
+
+
+    <ul>
+    
+        <li>Someone tried to turn her around and fiddle with her body.</li>
+        
+        <li>Someone picked up the rose and gave it to her.</li>
+        
+        <li>Someone helped her with her clothes.</li>
+        
+        <li>Someone tentatively poked her with their fingers to make sure she really did not respond.</li>
+        
+    </ul>
+
+
+
+    <h3>Time passes by quietly</h3>
+
+
+
+    <figure>
+
+        <img src="images/screenshot-demo.png" alt="">
+
+        <figcaption>
+
+            <em> How "Big Road" looks like on mobile phone.</em>
+
+            <br> Source: screenshot
+
+        </figcaption>
+
+    </figure>
+
+
+
+    <figure>
+
+        <img src="images/screenshot-demo.png" alt="">
+
+        <figcaption>
+
+            Sometimes, the caption can be very long which is a standalone story by itself. So you don't have to put the entire block into emphasis mode. Just <em>emaphsize the part you find most important</em>.
+
+        </figcaption>
+
+    </figure>
+
+
+
+    <p>Marina remained motionless---Girls began to "decorate" her with ropes and cardboard as fiddling a doll.</p>
+
+
+
+    <h3>But then something changed</h3>
+
+
+
+    <p>Someone began to paint Marina's face with her lipstick. </p>
+
+
+
+    <p>With precedent, the audience began to become bolder and bolder.</p>
+    
+    <ul>
+    
+        <li>Someone took off her coat and poured water on her head.</li>
+        
+        <li>Someone forced a kiss on her.</li>
+        
+        <li>Someone cut her dress with the spring knife.</li>
+        
+        <li>Someone pricked her stomach with thorny roses and she bled directly.</li>
+        
+    </ul>
+        
+     
+
+    <h3>After 4 hours</h3>
+
+    <ul>
+
+        <li>Audience started scratching her body with the spring knife.</li>
+
+        <li>Someone cut her throat, imitated the vampire and began to suck her blood.</li>
+
+        <li>Someone maliciously harassed her body, took naked pictures with camera, and let her hold it in her hand.</li>
+        
+        <li>Someone played with her private parts.</li>
+        
+    </ul>
+
+
+
+    <p>The onlookers gave numb smiles and the terrible thing is far from over.</p>
+
+
+
+    <p>Until two men filled the gun with bullets and pressed her finger to see if she would pull the trigger.</p>
+
+   
+    
+    <p>However, at this time, some of the audience thought it was too much. They rushed to throw the gun away and some people began to accuse the two men.</p>
+
+
+
+    <p>Others felt that it was a kind of performance, and when it reached its climax, there was no reason to stop. As a result, fierce clashes broke out between the two sides. </p>
+
+
+
+    <p>At the same time, Marina had been scarred, full of holes, and her beautiful eyes silently left tears of despair and fear.</p>
+
+    <ratio-1-to-1>
+
+        <responsive-block>
+
+            <iframe src='//hupili.net/20170800-sichuan-earthquake-in-100years/' frameborder='0' allowfullscreen>
+
+        </iframe>
+
+        </responsive-block>
+
+    </ratio-1-to-1>
+
+
+
+    <!-- 
+
+    <ratio-4-to-3>
+
+        <responsive-block>
+
+            <iframe src='//hupili.net/20170800-sichuan-earthquake-in-100years/' frameborder='0' allowfullscreen>
+
+            </iframe>
+
+        </responsive-block>
+
+    </ratio-4-to-3> 
+
+    -->
+
+
+
+    <h2>Awaking after “hilarity”</h2>
+
+
+
+    <p>
+    
+    As Abramović described it later: "What I learned was that ... <strong>if you leave it up to the audience, they can kill you.</strong>" ... "I felt really violated: they cut up my clothes, stuck rose thorns in my stomach, one person aimed the gun at my head, and another took it away. It created an aggressive atmosphere. After exactly 6 hours, as planned, I stood up and started walking toward the audience. Everyone ran away, to escape an actual confrontation." 
+When the gallery announced the work was over, and Abramović began to move again, she said the audience left, unable to face her as a person.
+
+    </p>
+
+
+
+    <h2>Video</h2>
+
+
+
+    
+
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-37311363-17"></script>
+
+    <script>
+
+        window.dataLayer = window.dataLayer || [];
+
+
+
+        function gtag() {
+
+            dataLayer.push(arguments);
+
+        }
+
+        gtag('js', new Date());
+
+
+
+        gtag('config', 'UA-37311363-17');
+
+    </script>
+
+
+
+</body>
+
+
+
+</html>
